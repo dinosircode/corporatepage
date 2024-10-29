@@ -1,0 +1,28 @@
+{
+	"intro": {
+		"start": "Entertaiment ",
+		"end": "and Technology ",
+		"speed": 60,
+		"deletionSpeed": 80,
+		"wrapper": "h2",
+		"startDelay": 1000,
+		"deleteDelay": 3000,
+		"restartDelay": 12000
+	},
+
+	"header": {
+		"name": "INDRAJALA ",
+		"usp": "MOVIE MAKERS LLP"
+	},
+
+	"paragraph": "Unlock a magical world of fantasy films with the finest content delivered straight to your screen.",
+
+	"buttons": {
+		
+		"secondary": {
+			"title": "Visit Page",
+			"url": "",
+			"leaveSite": "true"
+		}
+	}
+}

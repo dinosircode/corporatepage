@@ -1,0 +1,36 @@
+{
+	"intro": {
+		"start": "Entertaiment ",
+		"end": "and Technology ",
+		"speed": 60,
+		"deletionSpeed": 80,
+		"wrapper": "h2",
+		"startDelay": 1000,
+		"deleteDelay": 3000,
+		"restartDelay": 12000
+	},
+
+	"header": {
+		"name": "PLAN  ",
+		"usp": "BRIEF"
+	},
+
+	"paragraph": "Any one can invest the minium amount Rs 10,000 and multiple of 50,000",
+	"s2":"They will can return 6% ROI P/M on their investment /72% P/A",
+	"s3":"The return on investment will be credited in to your account on 15th of every month",
+	"s4":"Any one can withdraw their investment at any time within in a three month of notice period",
+	"s5":"We will provide the cheque leaf of our company to security for your investment ",
+
+	
+
+
+
+	"buttons": {
+		
+		"secondary": {
+			"title": "Visit Page",
+			"url": "",
+			"leaveSite": "true"
+		}
+	}
+}

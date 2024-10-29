@@ -1,0 +1,28 @@
+{
+	"intro": {
+		"start": "Entertaiment ",
+		"end": "and Technology ",
+		"speed": 60,
+		"deletionSpeed": 80,
+		"wrapper": "h2",
+		"startDelay": 1000,
+		"deleteDelay": 3000,
+		"restartDelay": 12000
+	},
+
+	"header": {
+		"name": "A B O U T ",
+		"usp": "U S"
+	},
+
+	"paragraph": "INDRAJALA MOVIE MAKERS, where cinematic artistry meets adult entertainment in the digital realm. We recognize the diverse tastes and preferences of our viewers. Our platform offers a seamless streaming experience, delivering a wide range of 18+ content including thrilling movies and provocative series. Join us on this exhilarating journey as we redefine the boundaries of adult entertainment and elevate the art of storytelling to new heihts.",
+
+	"buttons": {
+		
+		"secondary": {
+			"title": "Visit Page",
+			"url": "",
+			"leaveSite": "true"
+		}
+	}
+}

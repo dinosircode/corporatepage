@@ -1,0 +1,38 @@
+{
+	"acknowledgments": [
+		{ 
+			"person": "INDRAJALA MOVIE MAKERS LLP",
+			"link": "",
+			"note": "GSTIN:32AAKFI5418G1ZJ",
+			"note2": " Adress :No.60/49e, Third Floor, Jc Chambers, Panampilly Nagar, Ernakulam, Ernakulam, Kerala, India, 682036. Region : Ernakulam",
+			"note3": "Email : legal@indrajala.in | md@indrajala.co.in"
+		}
+	],
+
+	"links": [
+		{ 
+			"person": "Indrajala OTT Platform",
+			"link": "https://indrajala.in/Home",
+			"note": "The OTT Of Your Fantasies."
+		}
+	],
+
+	"social": [
+		{
+			"url": "https://medium.com/@--andrewnelson",
+			"icon": "medium"
+		},
+		{
+			"url": "https://dev.to/andrewnelson",
+			"icon": "dev"
+		},
+		{
+			"url": "https://www.linkedin.com/in/--andrewnelson/",
+			"icon": "linkedin"
+		},
+		{
+			"url": "https://github.com/atlamors",
+			"icon": "github"
+		}
+	]
+}
